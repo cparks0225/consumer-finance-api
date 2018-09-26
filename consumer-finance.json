@@ -1,0 +1,39 @@
+{
+  "customers": [
+    {
+      "id": 1,
+        "customerName": "John Doe",
+        "primaryPhone": "555-555-5555",
+        "secondaryPhone": "",
+        "alternatePhone": "",
+        "salesRep": "Jeff Sullivan",
+        "rehash": true,
+        "originalApptRep": "",
+        "jobSiteAddress": "123 Fake Street",
+        "mailingAddress": "321 Faker Blvd",
+        "opportunityNumber": "182334",
+        "npsRating": "",
+        "proposal": "QUO30494",
+        "blended": true,
+        "financeStatus": "Default"
+    },
+    {
+      "id": 2,
+        "customerName": "Jane Doe",
+        "primaryPhone": "555-555-5555",
+        "secondaryPhone": "",
+        "alternatePhone": "",
+        "salesRep": "Jeff Sullivan",
+        "rehash": true,
+        "originalApptRep": "",
+        "jobSiteAddress": "123 Fake Street",
+        "mailingAddress": "321 Faker Blvd",
+        "opportunityNumber": "182334",
+        "npsRating": "",
+        "proposal": "QUO30494",
+        "blended": true,
+        "financeStatus": "Default"
+    }
+  ],
+}
+
